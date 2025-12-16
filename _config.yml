@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "骆的个人网页"
+title                    : "洛水凝砂的个人网页"
 title_separator          : "-"
-name                     : &name "骆"
+name                     : &name "L"
 description              : &description "一名理想主义者"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://AStarCalledTheSun.github.io/A-Star-Called-The-Sun.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
