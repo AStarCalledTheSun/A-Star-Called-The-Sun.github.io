@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "洛水凝砂的个人网页"
+title                    : "洛水凝沙的个人网页"
 title_separator          : "-"
 name                     : &name "L"
 description              : &description "一名理想主义者"   # Update this with a general description of your site, this is the default if not overridden by a page
